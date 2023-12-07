@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">constraintlayout</string>
+    <string name="welcome">Welcome to \n The Gallery Salon!</string>
+    <string name="follow">Follow the steps to schedule your \n next appointment with us.</string>
+    <string name="start">Start</string>
+    <string name="search">Search</string>
+    <string name="share">Share</string>
+    <string name="haircut">Haircut</string>
+    <string name="eyebrow">Eyebrows</string>
+    <string name="Oct">19\nOct</string>
+    <string name="hi">Hi, Anna Smith</string>
+    <string name="find">Find the best hair \n stylist for you.</string>
+    <string name="oct15">15\nOct</string>
+    <string name="nail">Nail</string>
+    <string name="dec">20\nDec</string>
+    <string name="recommended">Recommended</string>
+    <string name="view">View all</string>
+    <string name="mines45">45 mines</string>
+    <string name="price1">$90</string>
+    <string name="massage">Massage</string>
+    <string name="mines60">60 mines</string>
+    <string name="price2">$60</string>
+    <string name="phone">Phone</string>
+    <string name="directions">Directions</string>
 </resources>
